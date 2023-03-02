@@ -1,3 +1,3 @@
-# EngSoft3
+# SCM
 
 ## Atividade 1
